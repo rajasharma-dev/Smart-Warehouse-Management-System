@@ -65,3 +65,7 @@ This project was created to practise fundamental C programming concepts and unde
 **Rajakumar Sharma**
 
 GitHub: [@rajasharma-dev](https://github.com/rajasharma-dev)
+
+## Learning Progress
+
+Learning Git and Github through practical C projects.
